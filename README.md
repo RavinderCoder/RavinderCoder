@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RavinderCoder
+- 👋 Hi, I’m Ravinder Anbalagan
 - 👀 I’m interested in Competitive Coding
 - 🌱 I’m currently learning C++ STL
 - 💞️ I’m looking to collaborate on master level in Competitive coding 
